@@ -5,7 +5,7 @@
   "main": "index.js",
   "type": "module",
   "scripts": {
-  "devStart": "nodemon sever.js"  
+    "devStart": "nodemon sever.js"
   },
   "keywords": [],
   "author": "",
